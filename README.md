@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with jobs
 - 💬 Ask me about ANYTHING
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 2 languages(Vietnamese, English), I play instruments(guitar, piano)
+- ⚡ Fun fact: I speak 2 languages(Vietnamese, English), play instruments(guitar, piano), and a father of 10 succulents and cacti 
   
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="PhatLe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
