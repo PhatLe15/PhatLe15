@@ -2,7 +2,9 @@
  <img align="right" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width="500" height="320" />
 
 ## I'm a recently Graduate, Developer, Creator, and Mentor!!
+
 ---
+
 - 🔭 I’m currently working on my senior project at San Jose State University [Anti Car Theft Camera System]
 - 🌱 I’m currently learning Swift IOS, Vivado IP, sound detection  
 - 👯 I’m looking to collaborate on open source
@@ -33,6 +35,7 @@
 
 <br />
 <br />
+
 ---
 
 <details>
