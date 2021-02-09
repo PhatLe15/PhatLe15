@@ -1,4 +1,5 @@
-### Hello World, I'm Phat 👋
+### Hello World! I'm Phat 👋
+ <img align="right" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width="500" height="320" />
 
 ## I'm a recently Graduate, Developer, Creator, and Mentor!!
 ---
