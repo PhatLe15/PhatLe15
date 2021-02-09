@@ -9,7 +9,7 @@
 - 🤔 I’m actively looking for a full-time job in the hardware engineering career
 - 💬 Ask me about ANYTHING
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 2 languages(Vietnamese, English), play instruments(guitar, piano), and a father of 10 succulents and cacti 
+- ⚡ Fun fact: I speak 2 languages(Vietnamese, English), play instruments(guitar, piano), and a father of 10 succulents🪴5 and cacti🌵
   
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="PhatLe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
