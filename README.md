@@ -2,7 +2,7 @@
 
 ## I'm a recently Graduate, Developer, Creator, and Mentor!!
 ---
-- 🔭 I’m currently working on [Anti Car Theft Camera System]
+- 🔭 I’m currently working on my senior project at San Jose State University [Anti Car Theft Camera System]
 - 🌱 I’m currently learning Swift IOS, Vivado IP, sound detection  
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m actively looking for a full-time job in the hardware engineering career
