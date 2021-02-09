@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ANYTHING
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 2 languages(Vietnamese, English)
-- 
+  
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="PhatLe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
