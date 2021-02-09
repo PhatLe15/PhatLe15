@@ -22,7 +22,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png" />]()
 [<img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" />]()
 
-[<img align="left" alt="CSharp" width="26px" src="actively looking for a full-time job in the hardware engineering career" />]()
+[<img align="left" alt="CSharp" width="26px" src="https://visualpharm.com/assets/171/C++-595b40b75ba036ed117d5b19.svg" />]()
 
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 
