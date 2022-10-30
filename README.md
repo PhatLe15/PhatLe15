@@ -5,10 +5,10 @@
 
 ---
 
-- 🔭 I’m currently working on my senior project at San Jose State University [Anti Car Theft Camera System]
-- 🌱 I’m currently learning Swift IOS, Vivado IP, sound detection  
+- 🔭 I’m currently working as Software Quality Assurance Engineer at Neato Robotics 
+- 🪴 I'm recently graduated as Bachelor in Computer Engineer at San Jose State University [Anti Car Theft Camera System]
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m actively looking for a full-time job in the hardware engineering career
+- 🤔 I’m actively looking for a full-time job in the robotics/software/hardware engineering career
 - 💬 Ask me about ANYTHING
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 2 languages(Vietnamese, English), play instruments(guitar🎸, piano🎹), and a father of 10 succulents🪴, and 5 cacti🌵
